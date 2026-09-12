@@ -1,2 +1,2 @@
 # studying-raisetech
--programing studying in curriculum of raisetech
+- programing studying in curriculum of raisetech
